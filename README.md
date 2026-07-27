@@ -12,11 +12,23 @@ A simple rule-based AI chatbot built using Python.
 ## Technologies Used
 - Python
 
+## Installation
+pip install -r requirements.txt
+
 ## How to Run
 
 ```bash
 python chatbot.py
 ```
 
+## Sample Output
+```text
+Hello! I am your AI Chatbot.
+You: Hi
+Bot: Hello! How can I help you?
+```
+
 ## Author
 Nisha Singh
+
+
